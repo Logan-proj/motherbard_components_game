@@ -16,7 +16,7 @@ I wanted to create a project that shows my understanding of:
 
 ## Requirements
 
-+ Python is required to run main.py file
++ Python3 is required to run main.py file
 
 ## Installation
 
@@ -24,7 +24,7 @@ Provide code examples and explanations of how to get the project, e.g.,
 
 	git clone https://github.com/Logan-proj/motherboard_components_game.git
 	cd motherboard_components_game
-	python main.py
+	python3 main.py
 
 ## Reference
 

@@ -1,0 +1,16 @@
+answer,names,x,y
+1,CMOS battery,-163.0,19.0
+2,ATX power connector,302.0,-283.0
+3,Fan connector,-11.0,216.0
+4,Front panel connector,-363.0,-174.0
+5,CPU,211.0,-7.0
+6,Input/Output (I/O) panel,97.0,262.0
+7,RAM slots,146.0,-173.0
+8,Serial AT Attachment drive connector (SATA),-345.0,-282.0
+9,Southbridge chipset,-157.0,-192.0
+10,PCI slots,-319.0,89.0
+11,ATX 12v power connector,279.0,230.0
+12,PCIe x16 (Graphics),-83.0,66.0
+13,PCIe x1 slots,-157.0,142.0
+14,Integrated Drive Electronics (IDE) drive connector,7.0,-263.0
+15,Northbridge chipset,2.0,25.0
